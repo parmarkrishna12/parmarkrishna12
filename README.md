@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi there, I'm Krishna Parmar!<br><br>💻 Data Analyst | Software Developer | Tech Enthusiast<br><br>I am a passionate and driven IT student with a strong interest in software development and data analysis. I enjoy building real-world projects, solving problems, and continuously improving my technical skills.<br><br>🚀 About Me<br>🎓 Pursuing B.Sc. in Information Technology (2023–2026)<br>🏫 Usha Pravin Gandhi College, Mumbai<br>👨‍💻 Web Developer Intern at IITIANCRAFT (Aug 2025 – Nov 2025)<br>👥 Member of Techvenza (Technical Community)<br>🏆 Winner of IIC Hackathon<br>📄 Presented an International Conference Paper on LLM in Medical AI<br>🎯 Goal: To become a skilled developer & data analyst<br>🛠️ Technical Skills<br>💻 Programming Languages<br>Python 🐍<br>Java ☕<br>C# ⚡<br>🌐 Web Technologies<br>HTML<br>CSS<br>Bootstrap<br>📊 Data Analysis<br>Excel<br>Power BI<br>MySQL<br>🧰 Tools & Others<br>Git & GitHub<br>VS Code<br>API Integration<br>💼 Professional Experience<br><br>💻 Web Developer Intern – IITIANCRAFT<br>📅 Aug 2025 – Nov 2025<br><br>Developed responsive front-end components<br>Assisted in UI/UX implementation and testing<br>Debugged and optimized performance<br>Ensured mobile responsiveness<br>Collaborated with designers and backend developers<br>Participated in weekly planning and review meetings<br>📌 Projects<br>🌐 Arham Design Studio Website<br>Built using HTML & CSS<br>Clean and responsive front-end design<br>Showcases company services and portfolio<br>🔍 Simple Search Engine<br>Developed a keyword-based search system<br>Matches user queries with predefined data<br>Displays relevant results in a simple format<br>📄 Resume Builder (Core Java)<br>Generates professional resumes automatically<br>Live preview feature<br>User-friendly interface<br>Downloadable final resume<br>🏥 Expert Medical System (Python + AI)<br>AI-based healthcare assistant system<br>Appointment booking & management<br>Chatbot for basic medical guidance<br>Efficient data handling for patients & doctors<br>📊 Achievements<br>🥇 Winner – Institution’s Innovation Council Hackathon<br>📑 Research Paper on LLM Performance in Medical AI<br>🤝 Active member of technical community (Techvenza)<br>🌱 Currently Working On<br>Improving Data Analysis & Visualization skills<br>Building advanced real-world projects<br>Strengthening problem-solving abilities<br>Preparing for internships & placements<br>📫 Connect With Me<br>📧 Email: kkparmar564@gmail.com<br>💻 GitHub: https://github.com/parmarkrishna12
 
-<!--
-**parmarkrishna12/parmarkrishna12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-parmar-900226304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kkparmar564@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parmarkrishna12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=parmarkrishna12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmarkrishna12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=parmarkrishna12&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
