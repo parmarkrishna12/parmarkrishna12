@@ -1,5 +1,94 @@
 # 💫 About Me:
-👋 Hi there, I'm Krishna Parmar!<br><br>💻 Data Analyst | Software Developer | Tech Enthusiast<br><br>I am a passionate and driven IT student with a strong interest in software development and data analysis. I enjoy building real-world projects, solving problems, and continuously improving my technical skills.<br><br>🚀 About Me<br>🎓 Pursuing B.Sc. in Information Technology (2023–2026)<br>🏫 Usha Pravin Gandhi College, Mumbai<br>👨‍💻 Web Developer Intern at IITIANCRAFT (Aug 2025 – Nov 2025)<br>👥 Member of Techvenza (Technical Community)<br>🏆 Winner of IIC Hackathon<br>📄 Presented an International Conference Paper on LLM in Medical AI<br>🎯 Goal: To become a skilled developer & data analyst<br>🛠️ Technical Skills<br>💻 Programming Languages<br>Python 🐍<br>Java ☕<br>C# ⚡<br>🌐 Web Technologies<br>HTML<br>CSS<br>Bootstrap<br>📊 Data Analysis<br>Excel<br>Power BI<br>MySQL<br>🧰 Tools & Others<br>Git & GitHub<br>VS Code<br>API Integration<br>💼 Professional Experience<br><br>💻 Web Developer Intern – IITIANCRAFT<br>📅 Aug 2025 – Nov 2025<br><br>Developed responsive front-end components<br>Assisted in UI/UX implementation and testing<br>Debugged and optimized performance<br>Ensured mobile responsiveness<br>Collaborated with designers and backend developers<br>Participated in weekly planning and review meetings<br>📌 Projects<br>🌐 Arham Design Studio Website<br>Built using HTML & CSS<br>Clean and responsive front-end design<br>Showcases company services and portfolio<br>🔍 Simple Search Engine<br>Developed a keyword-based search system<br>Matches user queries with predefined data<br>Displays relevant results in a simple format<br>📄 Resume Builder (Core Java)<br>Generates professional resumes automatically<br>Live preview feature<br>User-friendly interface<br>Downloadable final resume<br>🏥 Expert Medical System (Python + AI)<br>AI-based healthcare assistant system<br>Appointment booking & management<br>Chatbot for basic medical guidance<br>Efficient data handling for patients & doctors<br>📊 Achievements<br>🥇 Winner – Institution’s Innovation Council Hackathon<br>📑 Research Paper on LLM Performance in Medical AI<br>🤝 Active member of technical community (Techvenza)<br>🌱 Currently Working On<br>Improving Data Analysis & Visualization skills<br>Building advanced real-world projects<br>Strengthening problem-solving abilities<br>Preparing for internships & placements<br>📫 Connect With Me<br>📧 Email: kkparmar564@gmail.com<br>💻 GitHub: https://github.com/parmarkrishna12
+👋 Hi there, I'm Krishna Parmar!
+
+💻 Data Analyst | Software Developer | Tech Enthusiast
+
+I am a passionate and driven IT student with a strong interest in software development and data analysis. I enjoy building real-world projects, solving problems, and continuously improving my technical skills.
+
+🚀 About Me
+🎓 Pursuing B.Sc. in Information Technology (2023–2026)
+🏫 Usha Pravin Gandhi College, Mumbai
+👨‍💻 Web Developer Intern at IITIANCRAFT (Aug 2025 – Nov 2025)
+👥 Member of Techvenza (Technical Community)
+🏆 Winner of IIC Hackathon
+📄 Presented an International Conference Paper on LLM in Medical AI
+🎯 Goal: To become a skilled developer & data analyst
+
+🛠️ Technical Skills
+
+💻 Programming Languages
+Python 🐍
+Java ☕
+C# ⚡
+
+🌐 Web Technologies
+HTML
+CSS
+Bootstrap
+
+📊 Data Analysis
+Excel
+Power BI
+MySQL
+
+🧰 Tools & Others
+Git & GitHub
+VS Code
+API Integration
+💼 Professional Experience
+
+💻 Web Developer Intern – IITIANCRAFT
+
+📅 Aug 2025 – Nov 2025
+
+Developed responsive front-end components
+Assisted in UI/UX implementation and testing
+Debugged and optimized performance
+Ensured mobile responsiveness
+Collaborated with designers and backend developers
+Participated in weekly planning and review meetings
+
+📌 Projects
+
+🌐 Arham Design Studio Website
+Built using HTML & CSS
+Clean and responsive front-end design
+Showcases company services and portfolio
+
+🔍 Simple Search Engine
+Developed a keyword-based search system
+Matches user queries with predefined data
+Displays relevant results in a simple format
+
+📄 Resume Builder (Core Java)
+Generates professional resumes automatically
+Live preview feature
+User-friendly interface
+Downloadable final resume
+
+🏥 Expert Medical System (Python + AI)
+AI-based healthcare assistant system
+Appointment booking & management
+Chatbot for basic medical guidance
+Efficient data handling for patients & doctors
+
+📊 Achievements
+🥇 Winner – Institution’s Innovation Council (IIC) Hackathon
+📑 Research Paper on LLM Performance in Medical AI
+🤝 Active member of Techvenza
+
+🌱 Currently Working On
+Improving Data Analysis & Visualization skills
+Building advanced real-world projects
+Strengthening problem-solving abilities
+Preparing for internships & placements
+
+📫 Connect With Me
+📧 Email: kkparmar564@gmail.com
+💻 GitHub: parmarkrishna12
+⚡ Fun Fact
+
+I love combining technology + creativity to build impactful solutions 🚀
 
 
 ## 🌐 Socials:
